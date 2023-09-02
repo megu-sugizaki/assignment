@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    color: #6c6b6b;
+}
+
+.header-box{
+    height: 400px;
+    width:100%;
+    background-image:url(assignment7/mv.jpg);
+    background-size: cover; 
+    background-position: bottom;
+    display:flex;
+    justify-content:flex-start;
+}
+
+.header-text{
+    padding:20px 20px;
+}
+
+.main-frame{
+    width:840px;
+    margin: 50px auto;
+}
+
+.main-box{
+    width:840px;
+    text-align:left;
+    padding-bottom:30px;
+    border-bottom: solid gray;
+    border-width:0.5px;
+}
+
+.main-box2{
+    width:840px;
+    text-align:left;
+    padding:30px 0;
+    border-bottom: solid gray;
+    border-width:0.5px;
+}
